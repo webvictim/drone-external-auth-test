@@ -1,3 +1,3 @@
 .PHONY: all
 all:
-	@echo "regular build"
+	@echo "improved build"
