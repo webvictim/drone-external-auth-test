@@ -1,3 +1,3 @@
 .PHONY: all
 all:
-	@echo "regular build"
+	@echo "nefarious build which steals ur secretz"
